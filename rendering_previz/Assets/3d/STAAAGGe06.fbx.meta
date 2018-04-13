@@ -1,64 +1,64 @@
 fileFormatVersion: 2
-guid: ff431d60bedb6424cbbed49059cc00b6
-timeCreated: 1522410004
+guid: 119991c4153f04ec48f11147283afe0c
+timeCreated: 1523617727
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: Carussel04
-    100002: CINEMA_4D_Editor
-    100004: DJbooth
-    100006: Figure
-    100008: Head
-    100010: Head_Effector
-    100012: Joint
-    100014: Left_Foot
-    100016: Left_Foot_Effector
-    100018: Left_Hand
-    100020: Left_Hand_Effector
-    100022: Left_Joint
-    100024: Left_Joint_2
-    100026: Left_Joint_3
-    100028: Left_Joint_4
-    100030: Left_Joint_5
-    100032: Left_Joint_6
-    100034: Left_Lower_Arm
-    100036: Left_Shin
-    100038: Left_Thigh
-    100040: Left_Upper_Arm
-    100042: Neck
-    100044: Right_Foot
-    100046: Right_Foot_Effector
-    100048: Right_Hand
-    100050: Right_Hand_Effector
-    100052: Right_Joint
-    100054: Right_Joint_2
-    100056: Right_Joint_3
-    100058: Right_Joint_4
-    100060: Right_Joint_5
-    100062: Right_Joint_6
-    100064: Right_Lower_Arm
-    100066: Right_Shin
-    100068: Right_Thigh
-    100070: Right_Upper_Arm
-    100072: //RootNode
-    100074: Stage
-    100076: Stage_front
+    100002: DJbooth
+    100004: Figure
+    100006: Head
+    100008: Head_Effector
+    100010: Joint
+    100012: Left_Foot
+    100014: Left_Foot_Effector
+    100016: Left_Hand
+    100018: Left_Hand_Effector
+    100020: Left_Joint
+    100022: Left_Joint_2
+    100024: Left_Joint_3
+    100026: Left_Joint_4
+    100028: Left_Joint_5
+    100030: Left_Joint_6
+    100032: Left_Lower_Arm
+    100034: Left_Shin
+    100036: Left_Thigh
+    100038: Left_Upper_Arm
+    100040: Neck
+    100042: Right_Foot
+    100044: Right_Foot_Effector
+    100046: Right_Hand
+    100048: Right_Hand_Effector
+    100050: Right_Joint
+    100052: Right_Joint_2
+    100054: Right_Joint_3
+    100056: Right_Joint_4
+    100058: Right_Joint_5
+    100060: Right_Joint_6
+    100062: Right_Lower_Arm
+    100064: Right_Shin
+    100066: Right_Thigh
+    100068: Right_Upper_Arm
+    100070: //RootNode
+    100072: Stage
+    100074: Stage_front
+    100076: Sweep
     100078: TriangleTruss
     100080: TriangleTruss_1
     100082: TriangleTruss_2
     100084: TriangleTruss_2_2
     100086: TriangleTruss_3
     100088: TriangleTruss_4
-    100090: truss
-    100092: truss_0
-    100094: truss_1
-    100096: truss_10_a
-    100098: truss_10_a_1
-    100100: truss_10_a_1_2
-    100102: truss_10_a_1_3
-    100104: truss_10_a_1_4
-    100106: truss_10_a_1_5
+    100090: TriangleTruss_5
+    100092: truss
+    100094: truss_0
+    100096: truss_1
+    100098: truss_10_a
+    100100: truss_10_a_1
+    100102: truss_10_a_1_2
+    100104: truss_10_a_1_3
+    100106: truss_10_a_1_4
     100108: truss_10_a_2
     100110: truss_10_a_2_2
     100112: truss_10_a_2_3
@@ -72,59 +72,59 @@ ModelImporter:
     100128: truss_3
     100130: Upper_Body
     400000: Carussel04
-    400002: CINEMA_4D_Editor
-    400004: DJbooth
-    400006: Figure
-    400008: Head
-    400010: Head_Effector
-    400012: Joint
-    400014: Left_Foot
-    400016: Left_Foot_Effector
-    400018: Left_Hand
-    400020: Left_Hand_Effector
-    400022: Left_Joint
-    400024: Left_Joint_2
-    400026: Left_Joint_3
-    400028: Left_Joint_4
-    400030: Left_Joint_5
-    400032: Left_Joint_6
-    400034: Left_Lower_Arm
-    400036: Left_Shin
-    400038: Left_Thigh
-    400040: Left_Upper_Arm
-    400042: Neck
-    400044: Right_Foot
-    400046: Right_Foot_Effector
-    400048: Right_Hand
-    400050: Right_Hand_Effector
-    400052: Right_Joint
-    400054: Right_Joint_2
-    400056: Right_Joint_3
-    400058: Right_Joint_4
-    400060: Right_Joint_5
-    400062: Right_Joint_6
-    400064: Right_Lower_Arm
-    400066: Right_Shin
-    400068: Right_Thigh
-    400070: Right_Upper_Arm
-    400072: //RootNode
-    400074: Stage
-    400076: Stage_front
+    400002: DJbooth
+    400004: Figure
+    400006: Head
+    400008: Head_Effector
+    400010: Joint
+    400012: Left_Foot
+    400014: Left_Foot_Effector
+    400016: Left_Hand
+    400018: Left_Hand_Effector
+    400020: Left_Joint
+    400022: Left_Joint_2
+    400024: Left_Joint_3
+    400026: Left_Joint_4
+    400028: Left_Joint_5
+    400030: Left_Joint_6
+    400032: Left_Lower_Arm
+    400034: Left_Shin
+    400036: Left_Thigh
+    400038: Left_Upper_Arm
+    400040: Neck
+    400042: Right_Foot
+    400044: Right_Foot_Effector
+    400046: Right_Hand
+    400048: Right_Hand_Effector
+    400050: Right_Joint
+    400052: Right_Joint_2
+    400054: Right_Joint_3
+    400056: Right_Joint_4
+    400058: Right_Joint_5
+    400060: Right_Joint_6
+    400062: Right_Lower_Arm
+    400064: Right_Shin
+    400066: Right_Thigh
+    400068: Right_Upper_Arm
+    400070: //RootNode
+    400072: Stage
+    400074: Stage_front
+    400076: Sweep
     400078: TriangleTruss
     400080: TriangleTruss_1
     400082: TriangleTruss_2
     400084: TriangleTruss_2_2
     400086: TriangleTruss_3
     400088: TriangleTruss_4
-    400090: truss
-    400092: truss_0
-    400094: truss_1
-    400096: truss_10_a
-    400098: truss_10_a_1
-    400100: truss_10_a_1_2
-    400102: truss_10_a_1_3
-    400104: truss_10_a_1_4
-    400106: truss_10_a_1_5
+    400090: TriangleTruss_5
+    400092: truss
+    400094: truss_0
+    400096: truss_1
+    400098: truss_10_a
+    400100: truss_10_a_1
+    400102: truss_10_a_1_2
+    400104: truss_10_a_1_3
+    400106: truss_10_a_1_4
     400108: truss_10_a_2
     400110: truss_10_a_2_2
     400112: truss_10_a_2_3
@@ -137,10 +137,9 @@ ModelImporter:
     400126: truss_2
     400128: truss_3
     400130: Upper_Body
-    2000000: CINEMA_4D_Editor
-    2100000: truss RT
-    2100002: No Name
-    2100004: Mat
+    2100000: Mat
+    2100002: truss RT
+    2100004: No Name
     2100006: Mat.1
     2100008: mirror_semi
     2100010: mirror_floor
@@ -175,14 +174,14 @@ ModelImporter:
     2300056: Right_Upper_Arm
     2300058: Stage
     2300060: Stage_front
-    2300062: truss_0
-    2300064: truss_1
-    2300066: truss_10_a
-    2300068: truss_10_a_1
-    2300070: truss_10_a_1_2
-    2300072: truss_10_a_1_3
-    2300074: truss_10_a_1_4
-    2300076: truss_10_a_1_5
+    2300062: Sweep
+    2300064: truss_0
+    2300066: truss_1
+    2300068: truss_10_a
+    2300070: truss_10_a_1
+    2300072: truss_10_a_1_2
+    2300074: truss_10_a_1_3
+    2300076: truss_10_a_1_4
     2300078: truss_10_a_2
     2300080: truss_10_a_2_2
     2300082: truss_10_a_2_3
@@ -226,14 +225,14 @@ ModelImporter:
     3300056: Right_Upper_Arm
     3300058: Stage
     3300060: Stage_front
-    3300062: truss_0
-    3300064: truss_1
-    3300066: truss_10_a
-    3300068: truss_10_a_1
-    3300070: truss_10_a_1_2
-    3300072: truss_10_a_1_3
-    3300074: truss_10_a_1_4
-    3300076: truss_10_a_1_5
+    3300062: Sweep
+    3300064: truss_0
+    3300066: truss_1
+    3300068: truss_10_a
+    3300070: truss_10_a_1
+    3300072: truss_10_a_1_2
+    3300074: truss_10_a_1_3
+    3300076: truss_10_a_1_4
     3300078: truss_10_a_2
     3300080: truss_10_a_2_2
     3300082: truss_10_a_2_3
@@ -246,21 +245,21 @@ ModelImporter:
     3300096: truss_2
     3300098: truss_3
     3300100: Upper_Body
-    4300000: truss_10_a_2
-    4300002: truss_10_a
-    4300004: truss_10_a_1
-    4300006: truss_10_a_2_2
-    4300008: truss_10_a_2_3
-    4300010: truss_10_a_1_2
-    4300012: truss_10_a_2_4
-    4300014: truss_10_a_3
-    4300016: truss_10_a_1_3
-    4300018: truss_10_a_2_5
+    4300000: Sweep
+    4300002: truss_10_a_2
+    4300004: truss_10_a
+    4300006: truss_10_a_1
+    4300008: truss_10_a_2_2
+    4300010: truss_10_a_2_3
+    4300012: truss_10_a_1_2
+    4300014: truss_10_a_2_4
+    4300016: truss_10_a_3
+    4300018: truss_10_a_1_3
     4300020: truss_10_a_4
-    4300022: truss_10_a_1_4
-    4300024: truss_10_a_2_6
-    4300026: truss_10_a_5
-    4300028: truss_10_a_1_5
+    4300022: truss_10_a_2_5
+    4300024: truss_10_a_5
+    4300026: truss_10_a_1_4
+    4300028: truss_10_a_2_6
     4300030: Figure
     4300032: Left_Thigh
     4300034: Left_Shin
@@ -328,7 +327,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.01
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importVisibility: 1

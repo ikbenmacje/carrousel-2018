@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: ab9be77eb25324b28856b3e42be9d296
-timeCreated: 1522410000
+guid: a2e9ecfc626d54623a20e307184d8b96
+timeCreated: 1523615280
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -15,57 +15,55 @@ ModelImporter:
     100014: Cap_2_3
     100016: Cap_2_4
     100018: Cap_2_5
-    100020: Carussel03
-    100022: CINEMA_4D_Editor
-    100024: DJbooth
-    100026: Figure
-    100028: Head
-    100030: Head_Effector
-    100032: Joint
-    100034: LedStripe_0
-    100036: LedStripe_1
-    100038: LedStripe_2
-    100040: LedStripe_3
-    100042: LedStripe_4
-    100044: LedStripes
-    100046: Left_Foot
-    100048: Left_Foot_Effector
-    100050: Left_Hand
-    100052: Left_Hand_Effector
-    100054: Left_Joint
-    100056: Left_Joint_2
-    100058: Left_Joint_3
-    100060: Left_Joint_4
-    100062: Left_Joint_5
-    100064: Left_Joint_6
-    100066: Left_Lower_Arm
-    100068: Left_Shin
-    100070: Left_Thigh
-    100072: Left_Upper_Arm
-    100074: Neck
-    100076: Right_Foot
-    100078: Right_Foot_Effector
-    100080: Right_Hand
-    100082: Right_Hand_Effector
-    100084: Right_Joint
-    100086: Right_Joint_2
-    100088: Right_Joint_3
-    100090: Right_Joint_4
-    100092: Right_Joint_5
-    100094: Right_Joint_6
-    100096: Right_Lower_Arm
-    100098: Right_Shin
-    100100: Right_Thigh
-    100102: Right_Upper_Arm
-    100104: //RootNode
-    100106: Stage
-    100108: Stage_front
-    100110: truss
-    100112: truss_0
-    100114: truss_1
-    100116: truss_2
-    100118: truss_3
-    100120: Upper_Body
+    100020: DJbooth
+    100022: Figure
+    100024: Head
+    100026: Head_Effector
+    100028: Joint
+    100030: LedStripe_0
+    100032: LedStripe_1
+    100034: LedStripe_2
+    100036: LedStripe_3
+    100038: LedStripe_4
+    100040: LedStripes
+    100042: Left_Foot
+    100044: Left_Foot_Effector
+    100046: Left_Hand
+    100048: Left_Hand_Effector
+    100050: Left_Joint
+    100052: Left_Joint_2
+    100054: Left_Joint_3
+    100056: Left_Joint_4
+    100058: Left_Joint_5
+    100060: Left_Joint_6
+    100062: Left_Lower_Arm
+    100064: Left_Shin
+    100066: Left_Thigh
+    100068: Left_Upper_Arm
+    100070: Neck
+    100072: Right_Foot
+    100074: Right_Foot_Effector
+    100076: Right_Hand
+    100078: Right_Hand_Effector
+    100080: Right_Joint
+    100082: Right_Joint_2
+    100084: Right_Joint_3
+    100086: Right_Joint_4
+    100088: Right_Joint_5
+    100090: Right_Joint_6
+    100092: Right_Lower_Arm
+    100094: Right_Shin
+    100096: Right_Thigh
+    100098: Right_Upper_Arm
+    100100: //RootNode
+    100102: Stage
+    100104: Stage_front
+    100106: truss
+    100108: truss_0
+    100110: truss_1
+    100112: truss_2
+    100114: truss_3
+    100116: Upper_Body
     400000: Cap_1
     400002: Cap_1_2
     400004: Cap_1_3
@@ -76,58 +74,55 @@ ModelImporter:
     400014: Cap_2_3
     400016: Cap_2_4
     400018: Cap_2_5
-    400020: Carussel03
-    400022: CINEMA_4D_Editor
-    400024: DJbooth
-    400026: Figure
-    400028: Head
-    400030: Head_Effector
-    400032: Joint
-    400034: LedStripe_0
-    400036: LedStripe_1
-    400038: LedStripe_2
-    400040: LedStripe_3
-    400042: LedStripe_4
-    400044: LedStripes
-    400046: Left_Foot
-    400048: Left_Foot_Effector
-    400050: Left_Hand
-    400052: Left_Hand_Effector
-    400054: Left_Joint
-    400056: Left_Joint_2
-    400058: Left_Joint_3
-    400060: Left_Joint_4
-    400062: Left_Joint_5
-    400064: Left_Joint_6
-    400066: Left_Lower_Arm
-    400068: Left_Shin
-    400070: Left_Thigh
-    400072: Left_Upper_Arm
-    400074: Neck
-    400076: Right_Foot
-    400078: Right_Foot_Effector
-    400080: Right_Hand
-    400082: Right_Hand_Effector
-    400084: Right_Joint
-    400086: Right_Joint_2
-    400088: Right_Joint_3
-    400090: Right_Joint_4
-    400092: Right_Joint_5
-    400094: Right_Joint_6
-    400096: Right_Lower_Arm
-    400098: Right_Shin
-    400100: Right_Thigh
-    400102: Right_Upper_Arm
-    400104: //RootNode
-    400106: Stage
-    400108: Stage_front
-    400110: truss
-    400112: truss_0
-    400114: truss_1
-    400116: truss_2
-    400118: truss_3
-    400120: Upper_Body
-    2000000: CINEMA_4D_Editor
+    400020: DJbooth
+    400022: Figure
+    400024: Head
+    400026: Head_Effector
+    400028: Joint
+    400030: LedStripe_0
+    400032: LedStripe_1
+    400034: LedStripe_2
+    400036: LedStripe_3
+    400038: LedStripe_4
+    400040: LedStripes
+    400042: Left_Foot
+    400044: Left_Foot_Effector
+    400046: Left_Hand
+    400048: Left_Hand_Effector
+    400050: Left_Joint
+    400052: Left_Joint_2
+    400054: Left_Joint_3
+    400056: Left_Joint_4
+    400058: Left_Joint_5
+    400060: Left_Joint_6
+    400062: Left_Lower_Arm
+    400064: Left_Shin
+    400066: Left_Thigh
+    400068: Left_Upper_Arm
+    400070: Neck
+    400072: Right_Foot
+    400074: Right_Foot_Effector
+    400076: Right_Hand
+    400078: Right_Hand_Effector
+    400080: Right_Joint
+    400082: Right_Joint_2
+    400084: Right_Joint_3
+    400086: Right_Joint_4
+    400088: Right_Joint_5
+    400090: Right_Joint_6
+    400092: Right_Lower_Arm
+    400094: Right_Shin
+    400096: Right_Thigh
+    400098: Right_Upper_Arm
+    400100: //RootNode
+    400102: Stage
+    400104: Stage_front
+    400106: truss
+    400108: truss_0
+    400110: truss_1
+    400112: truss_2
+    400114: truss_3
+    400116: Upper_Body
     2100000: No Name
     2100002: Mat
     2100004: Mat.1
@@ -317,7 +312,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 0.01
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importVisibility: 1
