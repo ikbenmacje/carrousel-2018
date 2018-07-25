@@ -1,0 +1,38 @@
+@startuml
+skinparam backgroundcolor White|White
+
+title Carrousel 2018 - Component Diagram
+
+package "user control" {
+    () "Keyboard" as k
+    () "Mouse" as m
+    () "Screen" as s
+    () "USB Slide Controller" as u
+    k -> [GUI]
+    m -> [GUI]
+    [GUI] -> s
+}
+
+package "software" {
+    u - [Core Application]
+    [GUI] - [Core Application]
+    [Core Application] - [Calibrator]
+    [Core Application] - [Pattern Generator]
+}
+
+package "controllers"{
+[Core Application] -- [LED Controller]
+[Core Application] -- [Light Controller]
+}
+
+package "hardware" {
+    [LED Controller] --> [LED Stripes]
+    [Power Supply] --> [LED Stripes]
+    [Light Controller] --> [Moving Heads]
+    [Light Controller] --> [Spots]
+    [Light Controller] --> [Strobes]
+    [Light Controller] --> [Floods]
+    [Light Controller] --> [Smoke Machines]
+}
+
+@enduml
