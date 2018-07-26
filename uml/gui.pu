@@ -1,0 +1,24 @@
+@startuml
+
+salt
+{
+    <b>Carrousel 2018 - Graphical User-Interface
+    ()  Unchecked radio  | []  Unchecked box2
+    ()  Unchecked radio  | [X] Checked box2
+    (X) Checked radio    | []  Unchecked box2
+    []  Unchecked box
+    [X] Checked box
+    ..
+    Modifiers:                    | { (X) public | () default | () private | () protected }
+    [This is my button] | [This is my button2]
+    --
+    Status  <&signal> <&wifi>
+    "Enter text here   "
+    "Enter other text here   "
+    ~~
+    ^This is a droplist^
+    ==
+    [This is my button]
+}
+
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+skinparam backgroundcolor White|White
+
+title Carrousel 2018 - Activity Diagram
+
+start
+
+:TODO;
+
+stop
+
+@enduml
