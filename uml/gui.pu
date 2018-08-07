@@ -12,7 +12,7 @@ Shader: | . | .
 ^Lines^ | . | .
 { [ ] option A | [ ] option E } | . | .
 { [X] option B | [X] option F } | . | .
-{ [X] option C | [ ] option G } | . | .
+{ [X] option C | [ ] option G } | . | Mode:
 { [ ] option D | [X] option H } | . | { (X) <&media-play> Play | () <&media-pause> Pauze | () <&media-stop> Black | () <&circle-x> EMERGENCY }
 --        | .         | . | --
 Preview:  | Transfer: | Live:
