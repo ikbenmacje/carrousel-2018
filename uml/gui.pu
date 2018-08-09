@@ -14,20 +14,20 @@ Shader: | . | .
 { [X] option B | [X] option F } | . | .
 { [X] option C | [ ] option G } | . | Mode:
 { [ ] option D | [X] option H } | . | { (X) <&media-play> Play | () <&media-pause> Pauze | () <&media-stop> Black | () <&circle-x> EMERGENCY }
---        | .         | . | --
+--        | .         | --
+Tempo:    | .         | Tempo:
+{ [<&timer> Tap] | (X) | 079 BPS } | .    | { [<&timer> Tap] | (X) | 085 BPS }
+--        | .         | --
 Preview:  | Transfer: | Live:
 .         | .         | .
 .         | [→]       | .
 _ △ ◫ △ _ | [←]       | _ ▲ ▣ ▲ _
 .         | [↔]       | .
 --        | .         | --
-Preset previewing: || . | Preset playing:
+Preset previewing: | . | Preset playing:
 { () 0 (new) | () 1 | () 2 | (X) 3 | () 4 } | . | { () <u>1 | (X) <u>2 | () <u>3 | () <u>4 }
 Save current renering as: | . | .
-[<&arrow-bottom> 1] | . | .
-[<&arrow-bottom> 2] | . | .
-[<&arrow-bottom> 3] | . | .
-[<&arrow-bottom> 4] | . | .
+{ [<&arrow-bottom> 1] | [<&arrow-bottom> 2] | [<&arrow-bottom> 3] | [<&arrow-bottom> 4] } | . | .
 --  | . | --
 Colors preview: | . | Colors playing:
 { () 5 | () 6 | () 7 | (X) 8 } | . | { () <u>5 | () <u>6 | () <u>7 | (X) <u>8 }
@@ -35,8 +35,8 @@ Colors preview: | . | Colors playing:
 [<&chevron-top> Copy from selected]     | . | .
 [<&chevron-bottom> Paste to selected] | . | .
 -- | . | --
-.  | . | [<&cloudy> Smoke]
-.  | . | [<&bolt> Strobe]
+.  | . | Effects:
+.  | . | { [<&cloudy> Smoke] | [<&bolt> Strobe] }
 
 }
 
